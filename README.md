@@ -1,2 +1,1 @@
-# 34
-asdasd
+# C34_template_code
